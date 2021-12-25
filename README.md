@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This is a task management application backend service using Nest.js. The source code is re-implemented from the Udemy lesson: NestJS Zero to Hero - Modern TypeScript Back-end Development.
 
 ## Installation
 
